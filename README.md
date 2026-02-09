@@ -6,6 +6,13 @@ Uber Metrics at a Glance
 Overview
 This project analyzes Uber's key performance metrics using Microsoft Fabric and Power BI. The goal is to provide insights into Uber's operational performance, focusing on ride statistics, revenue trends, and driver engagement. The project integrates data from various sources, cleanses and transforms it in Microsoft Fabric, and visualizes the results in Power BI dashboards.
 
+![dashboard](visulization.png)
+
+![dashboard](vs2.png)
+
+
+
+
 Project Components
 Microsoft Fabric: Used for building the Lakehouse architecture, creating data pipelines, and transforming raw data.
 Power BI: Employed to create interactive dashboards and reports, including ride performance, revenue analysis, and driver performance.
